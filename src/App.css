@@ -17,6 +17,7 @@ nav{
   justify-content: flex-end;
   align-items: center;
   list-style: none;
+  background: transparent;
 }
 li{
   margin: 15px;
